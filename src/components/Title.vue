@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- contenuto del titolo -->
-    <h1 class="titolo">Titolo</h1>
+    <h1 class="titolo">Saluti da un amichevole SpiderMan di quartiere</h1>
   </div>
 </template>
 
@@ -16,6 +16,6 @@ export default {
 <style scoped>
 
 .titolo{
-  color: green;
+  color: coral;
 }
 </style>
